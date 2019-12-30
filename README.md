@@ -22,7 +22,7 @@ The elbow method is used to calculate the number of clusters in K-means and dend
 
 After knowing the clusters, the data is then fitted into the the respected algorithm. This is how the clusters by both of the models looks like.
 
-![clusters_kmeans](https://user-images.githubusercontent.com/14214659/71561803-3915c880-2a84-11ea-9d58-7ce05374b080.png)
+![kmeans clusters](https://user-images.githubusercontent.com/14214659/71574431-5634b080-2af1-11ea-9bb1-3a2368cf3fec.png)
 
 ![hc clusters](https://user-images.githubusercontent.com/14214659/71573762-1d470c80-2aee-11ea-9e91-4adb5eda07e9.png)
 
